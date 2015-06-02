@@ -1,0 +1,76 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.g.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\bin\Debug\CurrencyCalculator.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg_MarkupCompile.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.g.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.baml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\App.g.cs
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg_MarkupCompile.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.g.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\CurrencyCalculatorProg\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.pdb
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.exe
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.pdb
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.exe
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.pdb
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.g.resources
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.exe
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.pdb
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.exe
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.pdb
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.csprojResolveAssemblyReference.cache
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.baml
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.g.cs
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\App.g.cs
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg_MarkupCompile.cache
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.g.resources
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculator.Properties.Resources.resources
+D:\VS2012Workspace\CurrencyCalculatorProg2\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.exe
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.pdb
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.exe
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\bin\Debug\CurrencyCalculatorProg.pdb
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculatorProg.g.resources
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\CurrencyCalculatorProg3\CurrencyCalculatorProg\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,71 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Shenkar.CurrencyCalculatorProg.MainWindow"
+        ResizeMode="CanMinimize"
+        WindowState="Normal"
+        WindowStyle="ThreeDBorderWindow"
+        WindowStartupLocation="CenterScreen"
+        Title="Currency Calculator" Height="608" Width="600">
+        <Window.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.0,0">
+                <GradientStop Color="#FFADC9E6" Offset="1"/>
+            </LinearGradientBrush>
+        </Window.Background>
+
+    <Grid Margin="0,0,2,0">
+        <!--<Grid.Background>
+            <ImageBrush ImageSource="Images/Background.jpg" Stretch="None" TileMode="None" />
+        </Grid.Background>-->
+        <Image Height="91" Source="Images/SmallLogo.jpg" HorizontalAlignment="Left" x:Name="Logo" Stretch="Fill" VerticalAlignment="Top" Width="104" />
+
+        <GroupBox Header="From" HorizontalAlignment="Left" Margin="109,20,0,0" VerticalAlignment="Top" Height="60" Width="155" RenderTransformOrigin="0.487,0.509" FontSize="15" FontStyle="Normal"  >
+            <ComboBox x:Name="FromComboBox" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  HorizontalAlignment="Left" Width="140" Margin="0,0,0,4" />
+        </GroupBox>
+        <GroupBox Header="To" HorizontalAlignment="Left" Margin="346,20,0,0" VerticalAlignment="Top" Width="155" Height="60"  FontSize="15" FontStyle="Normal">
+            <ComboBox x:Name="ToComboBox" HorizontalAlignment="Left" Margin="0,0,0,4" RenderTransformOrigin="0.5,0.5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" AllowDrop="False" Width="140" Height="30" VerticalAlignment="Bottom"/>
+        </GroupBox>
+        <Button Content="Switch" Height="24" HorizontalAlignment="Left" Margin="279,44,0,0" x:Name="SwitchButton" VerticalAlignment="Top" Width="48" Click="SwitchButton_Click" FontSize="11" FontWeight="Bold" />
+
+        <Button Content="Calculate" Height="24" HorizontalAlignment="Left" Margin="274,120,0,0" x:Name="CalcButton" VerticalAlignment="Top" Width="62" Click="CalcButton_Click" FontSize="11" FontWeight="Bold" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="109,172,0,0" x:Name="ValidationTextBox" Text="" VerticalAlignment="Top" Width="406" FontWeight="Bold" Foreground="Red" FontSize="15" TextAlignment="Center"/>
+        <GroupBox Header="Amount" HorizontalAlignment="Left" Height="60" Margin="104,94,0,0" VerticalAlignment="Top" Width="160" Grid.Column="0"  FontSize="15" FontStyle="Normal">
+            <TextBox x:Name="AmountTextBox" HorizontalAlignment="Left" Height="38" TextWrapping="Wrap" VerticalAlignment="Bottom" 
+                               Text="{Binding Input, NotifyOnValidationError=true, UpdateSourceTrigger=PropertyChanged, 
+								ValidatesOnDataErrors=true}" AutoWordSelection="True" 
+								FontSize="20" FontWeight="SemiBold" FontStyle="Normal" TextAlignment="Center" IsEnabled="False" BorderThickness="0" Margin="0,0,-2,0" Padding="0,5,0,0" Width="150"/>
+        </GroupBox>
+        <GroupBox Header="Result" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="160" Margin="346,94,0,0"  FontSize="15" FontStyle="Normal">
+            <TextBlock x:Name="ResultTextBox" HorizontalAlignment="Left" Height="38" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150" FontSize="20" FontWeight="SemiBold" FontStyle="Normal"  TextAlignment="Center" 
+                                         ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True"  Margin="0,0,-2,0">
+                <TextBlock.ContextMenu>
+                    <ContextMenu/>
+                </TextBlock.ContextMenu>
+            </TextBlock>
+        </GroupBox>
+
+        <Button Content="Show Currencies" Height="23" HorizontalAlignment="Left" Margin="73,200,0,0" x:Name="ShowButton" VerticalAlignment="Top" Width="102" Click="ShowButton_Click" FontSize="11" FontWeight="Bold" />
+        <Button Content="Refresh Currencies" Height="23" HorizontalAlignment="Left" Margin="412,200,0,0" x:Name="RefreshButton" VerticalAlignment="Top" Width="115" Click="RefreshButton_Click" FontSize="11" FontWeight="Bold" />
+
+        <DataGrid AutoGenerateColumns="False" CanUserReorderColumns="True" Height="Auto" AlternatingRowBackground="Gainsboro"  AlternationCount="2" HorizontalAlignment="Left" Margin="73,228,0,0" x:Name="CurrenciesDataGrid" VerticalAlignment="Top" Width="454" Visibility="Collapsed">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="Country" IsReadOnly="True" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DockPanel>
+                                <Image Source="{Binding IconPath}" DockPanel.Dock="Left" Width="16" Height="16" Margin="5,0,15,0"/>
+                                <TextBlock Text="{Binding Country}" DockPanel.Dock="Left"/>
+                            </DockPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Name" IsReadOnly="True" Width="60" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Currency Code" IsReadOnly="True" Width="100" Binding="{Binding CurrencyCode}" />
+                <DataGridTextColumn Header="Rate" IsReadOnly="True" Width="60" Binding="{Binding Rate}" />
+                <DataGridTextColumn Header="Unit" IsReadOnly="True" Width="60" Binding="{Binding Unit, Mode=TwoWay, NotifyOnTargetUpdated=True, NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Header="Change" IsReadOnly="True" Width="60" Binding="{Binding Change}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

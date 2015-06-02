@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\bin\Debug\CurrencyCalculator.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator_MarkupCompile.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.g.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\CurrencyCalculator\obj\x86\Debug\CurrencyCalculator.pdb
